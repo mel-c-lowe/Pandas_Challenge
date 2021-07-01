@@ -2,9 +2,9 @@
 Repo for UMN Data Analytics Bootcamp homework #4, Pandas and Jupyter Notebooks
 
 Tools Used:
-Python
-Pandas
-Jupyter Notebook
+* Python
+* Pandas
+* Jupyter Notebook
 
 For this assignment, I was given a fictitious dataset with district-wide standardized test results for math and reading, along with information on the schools attended by each student.  From this data, I provided numerous summaries in table form (listed below), as well as a narrative anaylisis of overall findings.
 
@@ -12,7 +12,7 @@ For this assignment, I was given a fictitious dataset with district-wide standar
 
 ### District Summary
 
-* Ahigh level snapshot (in table form) of the district's key metrics, including:
+* A high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
